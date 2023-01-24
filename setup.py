@@ -8,5 +8,5 @@ setup(
     author='Savchuk Mariia',
     author_email='maria.savchuk2013@gmail.com',
     packages=find_namespace_packages(),
-    entry_points={'console_scripts':['clean-folder=clean_folder.main:main_func']}
+    entry_points={'console_scripts':['clean-folder=clean_folder.main:main_function']}
    )
